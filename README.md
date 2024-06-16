@@ -27,7 +27,7 @@
   <br>
   
 <!--START_SECTION:stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -69,7 +69,7 @@ VS Code                  16 hrs 50 mins      ███████████�
 ```
 
 
- Last Updated on 16/06/2024 01:47:44 UTC
+ Last Updated on 16/06/2024 18:41:22 UTC
 <!--END_SECTION:stats-->
 </details>
 </details>
